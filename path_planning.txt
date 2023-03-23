@@ -1,0 +1,1 @@
+First we decided who was writing the code and who was designing the stuff (Logan desiigning, Junish coding). We used CSS to design and make the profiles change on click, and used HTML to make the base page as you do.
